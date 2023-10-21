@@ -39,6 +39,11 @@ header {
   font-family: 'Oswald', sans-serif;
 }
 
+#brand a:hover {
+  color: #F49384;
+  transition: 0.5s;
+}
+
 ul {
   list-style: none;
   height: 100%;
