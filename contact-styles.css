@@ -147,7 +147,6 @@ footer p {
   height: 1800px;
   text-align: center; 
   background-color: #262626;
-  min-width: 980px;
   width: 90%;
   margin-top: 20px;
 }
@@ -253,6 +252,7 @@ button {
 
   #hamburger-icon {
     display: block;
+    padding-right: 50px;
   }
 
   .overall-container {
@@ -264,7 +264,6 @@ button {
     width: 100%;
     margin: 0;
     padding: 0;
-    /* min-width: 10px; */
   }
 
   .red-box, .email-container {
@@ -281,7 +280,7 @@ button {
   }
 
   input {
-    width: 30%;
+    width: 60%;
     margin: 0 auto;
     margin-bottom: 10px;
     margin-top: -50px;
@@ -289,17 +288,7 @@ button {
 
   button {
     margin: 0 auto;
-    width: 30%;
+    width: 60%;
   }
-
-  .red-box h3 {
-    padding-left: 350px;
-    padding-right: 350px;
-  }
-
-
-
-
-
 
 }
