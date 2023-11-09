@@ -9,3 +9,7 @@ function clearPlaceholder(input) {
 function toHeadshot(){
   window.location.href = "headshots.html"
 }
+
+function test() {
+  console.log('testting')
+}

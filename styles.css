@@ -325,6 +325,12 @@ footer p {
     background-attachment: fixed; 
     background-position: left -130px top;
   }
+
+  svg {
+    fill: #ffffff;
+    margin-left: -320px;
+    margin-top: 20px;
+  }
   
   } 
 
