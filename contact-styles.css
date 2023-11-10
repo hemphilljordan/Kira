@@ -276,6 +276,10 @@ button {
     width: 100%;
     box-sizing: border-box; 
   }
+
+  .red-box {
+    height: 350px;
+  }
   
 
   .email-container {
